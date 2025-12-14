@@ -106,6 +106,7 @@ trabalho-final/
 ├── .gitignore                               # Gitigone
 ├── anomaly_detection_water_quality.ipynb    # Notebook principal
 ├── README.md                                # Documentação
+├── Water potability                         # PDF apresentação
 ├── water_potability.csv                     # Dataset de entrada
 └── water_quality_anomalies_detected.csv     # Resultados exportados
 ```
